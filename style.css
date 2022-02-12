@@ -1,9 +1,8 @@
-/*===== GOOGLE FONTS =====*/
+/*Import font 'Poppins' from https://fonts.google.com*/
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
 
-/*===== VARIABLES CSS =====*/
+/*variables*/
 :root {
-    /*===== Colores =====*/
     --white-color: #ffffff;
     --black-color: #000000;
     --first-color: #eeeeee;
@@ -17,7 +16,6 @@
     --small-font-size: .75rem;
 }
 
-/*===== BASE =====*/
 *,
 ::before,
 ::after {
@@ -41,11 +39,6 @@ h1 {
     justify-content: center;
     align-items: center;
     height: 100vh;
-}
-
-.w-form {
-    /*background-color: var(--white-color);
-    padding: 20px;*/
 }
 
 .form {
