@@ -1,5 +1,5 @@
 # login-form-css
-A modern mobile responsive html and css login form design
+A modern mobile responsive html and css sign in form design (Google sign in design)
 
 Demo : https://thinugalakdinu.github.io/login-form-css/
 
